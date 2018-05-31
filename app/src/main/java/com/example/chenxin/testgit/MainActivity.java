@@ -33,6 +33,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"branch : 1");
         Log.e(TAG,"master : 3");
         Log.e(TAG,"branch : 2");
+        Log.e(TAG,"branch : 3");
 
 
 
