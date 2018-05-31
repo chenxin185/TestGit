@@ -15,8 +15,13 @@ public class MainActivity extends AppCompatActivity {
         Log.e(TAG,"111");
         Log.e(TAG,"222");
         Log.e(TAG,"333");
+
         Log.e(TAG,"666");
         Log.e(TAG,"777");
+
+        Log.e(TAG,"444");
+        Log.e(TAG,"555");
+
 
     }
 }
